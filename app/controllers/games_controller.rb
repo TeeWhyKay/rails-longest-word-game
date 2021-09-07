@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'open-uri'
-require 'json'
 
 # GamesController has methods for a new game and to score a guess
 class GamesController < ApplicationController
